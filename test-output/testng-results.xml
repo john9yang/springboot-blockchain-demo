@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1802" started-at="2018-08-20T03:27:25Z" finished-at="2018-08-20T03:27:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1802" started-at="2018-08-20T03:27:25Z" finished-at="2018-08-20T03:27:27Z">
+      <class name="com.niudong.demo.service.impl.CoinServiceImplTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.niudong.demo.service.impl.CoinServiceImplTest@55a609dd]" name="before" is-config="true" duration-ms="1604" started-at="2018-08-20T11:27:25Z" finished-at="2018-08-20T11:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testCheckDealInfo()[pri:0, instance:com.niudong.demo.service.impl.CoinServiceImplTest@55a609dd]" name="testCheckDealInfo" duration-ms="17" started-at="2018-08-20T11:27:27Z" finished-at="2018-08-20T11:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckDealInfo -->
+        <test-method status="PASS" signature="testCreateBlockToAlliance()[pri:0, instance:com.niudong.demo.service.impl.CoinServiceImplTest@55a609dd]" name="testCreateBlockToAlliance" duration-ms="35" started-at="2018-08-20T11:27:27Z" finished-at="2018-08-20T11:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateBlockToAlliance -->
+        <test-method status="PASS" signature="testDeal()[pri:0, instance:com.niudong.demo.service.impl.CoinServiceImplTest@55a609dd]" name="testDeal" duration-ms="3" started-at="2018-08-20T11:27:27Z" finished-at="2018-08-20T11:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeal -->
+        <test-method status="PASS" signature="testGetAllCoinBalances()[pri:0, instance:com.niudong.demo.service.impl.CoinServiceImplTest@55a609dd]" name="testGetAllCoinBalances" duration-ms="7" started-at="2018-08-20T11:27:27Z" finished-at="2018-08-20T11:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllCoinBalances -->
+        <test-method status="PASS" signature="testInsertBlockCostToAlliance()[pri:0, instance:com.niudong.demo.service.impl.CoinServiceImplTest@55a609dd]" name="testInsertBlockCostToAlliance" duration-ms="7" started-at="2018-08-20T11:27:27Z" finished-at="2018-08-20T11:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInsertBlockCostToAlliance -->
+        <test-method status="PASS" signature="testProcessDeal()[pri:0, instance:com.niudong.demo.service.impl.CoinServiceImplTest@55a609dd]" name="testProcessDeal" duration-ms="47" started-at="2018-08-20T11:27:27Z" finished-at="2018-08-20T11:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProcessDeal -->
+        <test-method status="PASS" signature="testSaveIntoTable()[pri:0, instance:com.niudong.demo.service.impl.CoinServiceImplTest@55a609dd]" name="testSaveIntoTable" duration-ms="8" started-at="2018-08-20T11:27:27Z" finished-at="2018-08-20T11:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSaveIntoTable -->
+      </class> <!-- com.niudong.demo.service.impl.CoinServiceImplTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
